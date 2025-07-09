@@ -1,0 +1,18 @@
+{
+  "name": "travel-management-system",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.2.1",
+    "vite": "^2.9.13"
+  }
+}
+```
+
+This codebase uses React, Vite, and Tailwind CSS to create a beautiful and functional Travel Management System website. It includes a hero section, navigation, dashboard, login, register, and trips pages. The code is modular, scalable, and follows best practices.
